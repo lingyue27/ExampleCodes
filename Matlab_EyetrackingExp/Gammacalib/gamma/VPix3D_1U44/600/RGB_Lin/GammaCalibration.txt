@@ -1,0 +1,16 @@
+
+
+	 ----------------------------------- 
+	|         Gamma calibration           |
+	 ----------------------------------- 
+
+	 Screen ID : 			VPix3D_1U44
+	 Screen distance : 		600 mm
+	 Calibration type : 		RGB linearized
+	 Creation date : 		19-Dec-2016
+	 Creation time : 		21:31
+
+	 Max RED lum. : 		2.610000e+01
+	 Max GREEN lum. : 		5.010000e+01
+	 Max BLUE lum. : 		9.310000e+00
+	 Max GRAY lum. : 		8.530000e+01
